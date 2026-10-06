@@ -48,4 +48,4 @@ scale_params.to_csv(OUT_DIR / "scale_params.csv")
 
 print("\nSaved train.csv, test.csv, and scale_params.csv to data/processed/")
 print("\nSample of scaled training data:")
-print(train_scaled.head())
+print(train_scaled.head())    
